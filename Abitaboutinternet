@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>A bit about internet</title>
+</head>
+
+<body>
+
+  <h1>A bit about internet</h1>
+
+<p>URL stands for *Uniform Resource Locator*. It contains serveral different parts, including:
+
+- the **protocol**: e.g. http, https, ftp
+- the **host**: e.g. www.facebook.com, www.bbc.co.uk
+- the **path**: e.g. /news/local, /john.smith.95</p>
+
+</body>
+</html>
